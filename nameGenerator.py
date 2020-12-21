@@ -40,4 +40,4 @@ def name_generator(letters):
         names.append(user)
     return names
 
-print(name_generator(['v', 'w', 'A', 'I', 'T']))
+# print(name_generator(['v', 'w', 'A', 'I', 'T']))
